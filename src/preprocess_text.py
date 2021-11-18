@@ -21,3 +21,6 @@ def remove_punctuation(text):
 def hello():
     print("Yo")
     print("Hello")
+    
+def test123():
+    return 2
